@@ -1,0 +1,21 @@
+div[data-cell] {
+    width: 100px;
+    height: 100px;
+    background-color: #f2f2f2;
+    border: 1px solid #808080;
+    float: left;
+    font-size: 100px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.row {
+    clear: both;
+    text-align: center;
+}
+
+#announce-winner {
+    clear: both;
+    font-size: 44px;
+    font-family: sans-serif;
+}
