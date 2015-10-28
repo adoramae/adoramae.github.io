@@ -13,4 +13,7 @@ $(document).ready(function() {
 		$(this).remove();
 
 	});
+
+	$('#todo-list').sortable();
 });
+
